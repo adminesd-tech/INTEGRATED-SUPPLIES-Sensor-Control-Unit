@@ -190,7 +190,7 @@ A: ยังไม่ได้ connect หรือ connect ผิด COM Port
 
 ### Q: ใช้กับ Mac ได้ไหม?
 
-A: ไม่ได้ Software Version1(v1) รองรับการทำงานกับระบบปฏิบัติการ Window
+A: ไม่ได้ Software Version1 (v1) รองรับการทำงานกับระบบปฏิบัติการ Window
 
 ---
 
